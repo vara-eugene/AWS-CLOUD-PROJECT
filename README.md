@@ -163,3 +163,9 @@ Go to your source bucket, and delete the latest version of the object.
 
 In this task, you implemented the architecture best practice of automating disaster recovery.
 
+![Screenshot (130)](https://github.com/user-attachments/assets/b67ef377-e016-41bc-91da-3d2c45d29a60)
+
+
+![Screenshot (131)](https://github.com/user-attachments/assets/b36e3e4d-26d0-4a05-9258-bf1e27e824cb)
+
+
