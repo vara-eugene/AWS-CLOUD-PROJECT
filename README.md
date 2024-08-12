@@ -1,6 +1,8 @@
 # AWS-CLOUD-PROJECT
 
 Creating a Static Website for the Café
+
+
 Scenario
 Frank and Martha are a husband-and-wife team who own and operate a small café business that sells desserts and coffee. Their daughter, Sofía, and their other employee, Nikhil (who is a secondary school student), also work at the café. The café has a single location in a large city.
 
