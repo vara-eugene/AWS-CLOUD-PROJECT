@@ -1,4 +1,4 @@
-# AWS-CLOUD-PROJECT
+# STATIC WEBSITE FOR A CAFE
 
 Creating a Static Website for the Café
 
